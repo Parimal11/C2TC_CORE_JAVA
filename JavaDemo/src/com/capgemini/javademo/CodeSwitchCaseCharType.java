@@ -41,11 +41,10 @@ public class CodeSwitchCaseCharType {
 				
 				//Executes Case 'c' OR C if alphabet entered is C or c 	
 				System.out.println("The value of alpabet is c");
-				
-				
+				//Statements is terminated through break statement
 				break;
 				
-				
+			//If neither of the above case is satisfying condition then default case is executed	
 			default:
 				System.out.println("The value of x is other than a,b,c");
 				break;
