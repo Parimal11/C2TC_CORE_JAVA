@@ -1,7 +1,7 @@
 //This Program demonstrates one of OOPs Concepts "Single Inheritance"
 
 package com.capgemini.javadaytwo;
-
+//
 //Class First is Parent Class
 class First{
 	

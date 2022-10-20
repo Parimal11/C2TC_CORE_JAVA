@@ -12,7 +12,7 @@ class FirstD{
 		
 	}
 }
-
+//
 /*Class SecondD is Child class of FirstD
 Inherits Features of Class FirstD
 "extends" keyword used to inherit class*/
