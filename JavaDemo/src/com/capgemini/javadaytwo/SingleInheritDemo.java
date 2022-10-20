@@ -30,7 +30,7 @@ class Second extends First{
 
 //Public class SingleInheritDemo is declared
 public class SingleInheritDemo {
-
+//
 	public static void main(String[] args) {
 		
 		//Object two is created using new keyword

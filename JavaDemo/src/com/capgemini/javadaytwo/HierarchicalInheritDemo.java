@@ -53,7 +53,7 @@ class FourthDemo extends FirstDemo{
 		System.out.println("Four");  // Prints Four
 		
 	}
-}
+}//
 
 //Public class HierarchicalInheritDemo is declared
 public class HierarchicalInheritDemo {
