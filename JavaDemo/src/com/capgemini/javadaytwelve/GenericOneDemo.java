@@ -1,8 +1,7 @@
 package com.capgemini.javadaytwelve;
 
 import java.util.LinkedList;
-import java.util.List;
-
+import java.util.List; 
 class First<T>
 {
 	
